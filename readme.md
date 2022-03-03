@@ -1,1 +1,1 @@
-create a mad lib reader that will load the txt file, parse out all the mad lib key words (wrapped with square brackets []), and ask the user to give you a string that matches that. then display the string with the mad libs filled in.
+create a mad lib reader that will load the txt file, parse out all the mad lib key words (wrapped with square brackets []), and ask the user to give you a string that matches that. then display the story with the mad libs filled in.
